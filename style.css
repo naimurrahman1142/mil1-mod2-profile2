@@ -54,3 +54,31 @@ h1 {
 .h-widthright {
     padding-right: 110px;
 }
+
+.container3 {
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.container3-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+}
+
+#orange-border {
+    border-left: 7px solid tomato;
+}
+
+#blue-border {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 30px;
+}
